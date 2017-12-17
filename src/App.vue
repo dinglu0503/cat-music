@@ -10,9 +10,9 @@
 </template>
 
 <script type="text/ecmascript-6">
-  import MHeader from 'components/m-header/m-header'
-  import Tab from 'components/tab/tab'
-  import Player from 'components/player/player'
+  import MHeader from 'src/components/m-header/m-header'
+  import Tab from 'src/components/tab/tab'
+  import Player from 'src/components/player/player'
 
   export default {
     components: {

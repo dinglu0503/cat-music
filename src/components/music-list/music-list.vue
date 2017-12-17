@@ -67,6 +67,7 @@
     created() {
       this.probeType = 3
       this.listenScroll = true
+      console.log(this.songs)
     },
     computed: {
       bgStyle() {
